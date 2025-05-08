@@ -1,0 +1,3 @@
+txn_id|price|date|status
+T001|59.99|2024-04-16|completed
+T002|29.95|2024-04-17|pending
